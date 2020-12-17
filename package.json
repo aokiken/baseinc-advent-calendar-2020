@@ -5,6 +5,9 @@
   "author": "aokiken <aokiken@me.com>",
   "license": "MIT",
   "private": "true",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
   "devDependencies": {
     "@types/puppeteer": "^5.4.2",
     "expect": "^26.6.2",
