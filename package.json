@@ -1,0 +1,8 @@
+{
+  "name": "baseinc-advent-calendar-2020",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "aokiken <aokiken@me.com>",
+  "license": "MIT",
+  "private": "true"
+}
